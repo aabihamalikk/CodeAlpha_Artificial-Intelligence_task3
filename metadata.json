@@ -1,0 +1,6 @@
+{
+  "name": "Object Detection and Tracking",
+  "description": "Real-time AI object detection and SORT multi-object tracking with webcam input, video processing, track IDs, analytics, and step-by-step setup guide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
